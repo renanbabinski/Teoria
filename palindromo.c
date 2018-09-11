@@ -1,3 +1,6 @@
+//RENAN LUIZ BABINSKI
+//Compilar palindromo.c e tabela.c juntos
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
